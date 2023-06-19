@@ -4,6 +4,7 @@
 
 a) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 - cevap -
+~~~
                       [16,21,11,8,12,22]
   
             [16,21,11]                   [8,12,22]
@@ -18,6 +19,7 @@ a) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
                       [8,11,12,16,21,22]
 
+~~~
 b) Big-O gösterimini yazınız.
 - cevap -
 O(n log n) 
